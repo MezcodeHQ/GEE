@@ -1,6 +1,6 @@
 {
   "name": "vite_react_shadcn_ts",
-  "private": true,
+  "public": true,
   "homepage": "https://mezcodehq.github.io/GEE/",
   "version": "0.0.0",
   "type": "module",
